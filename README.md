@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! I'm Vedanshi Agarwal — a passionate Full-Stack Developer from India 🇮🇳</h2>
+<h2 align="left">Hi <img width="50" height="50" src="https://camo.githubusercontent.com/f6240f1db6f4182e6f5d22ae2e05faacec5c0c5676f492966e2f2f1bc8a36d07/68747470733a2f2f6d656469612e74656e6f722e636f6d2f304370464f4b475661654d41414141692f68616e642d776176696e672d68616e642e676966"> <br> I'm Vedanshi Agarwal — a passionate Full-Stack Developer from India </h2>
+<img width="1000" height="500" src="https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966" />
 
 <p align="left">
   🔭 Currently building <b>AI-powered platforms</b> using Flutter & Node.js <br>
