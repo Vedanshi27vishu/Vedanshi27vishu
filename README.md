@@ -58,13 +58,6 @@
 
 ###
 
-### 📣 Communities
-
-- 💻 Core App Developer @ Google Developer Group AKGEC
-- 🧠 DSA Mentor @ Programming Club, AKGEC – training juniors in competitive programming
-
-###
-
 ### 🌐 Let's Connect
 
 <div align="left">
