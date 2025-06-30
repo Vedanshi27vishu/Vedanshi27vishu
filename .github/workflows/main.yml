@@ -16,7 +16,7 @@ Create snake.yml #1
 Jobs
 Run details
 Workflow file for this run
-.github/workflows/snake.yml at 65fd375
+.github/workflows/snake.yml at 71fb77d 
 name: Generate snake animation
 
 on:
@@ -51,4 +51,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-Create snake.yml · Vedanshi27vishu/Vedanshi27vishu@65fd375
+Create snake.yml · Vedanshi27vishu/Vedanshi27vishu@71fb77d 
